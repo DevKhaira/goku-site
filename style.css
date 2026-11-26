@@ -36,3 +36,12 @@ footer {
   font-size: 0.9rem;
   text-align: center;
 }
+.yt-badge {
+  display: inline-block;
+  background: #ff0000;
+  color: #fff;
+  font: bold 14px/1 -apple-system, Helvetica, Arial, sans-serif;
+  padding: 6px 10px;
+  border-radius: 6px;
+  margin-right: 6px;
+}
